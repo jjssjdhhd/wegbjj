@@ -35,6 +35,9 @@
     - title: GitHub
       url: https://github.com/
       logo: https://github.com/apple-touch-icon-57x57.png
+    - title: Notion
+      url: https://www.notion.so/
+      logo: https://www.notion.so/images/favicon.ico
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
