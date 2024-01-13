@@ -74,7 +74,10 @@
       logo: https://chat.oaifree.com/_next/static/media/favicon-32x32.be48395e.png
     - title: 潘多拉共享
       url: https://chat-shared3.zhile.io/shared.html?v=2
-      logo: https://chat-shared3.zhile.io/apple-touch-icon.png 
+      logo: https://chat-shared3.zhile.io/apple-touch-icon.png
+    - title: cfai
+      url: https://ai.jaze.top/?session=1
+      logo: https://ai.jaze.top/favicon.ico
 
 - taxonomy: 翻译工具
   icon: fas fa-language
