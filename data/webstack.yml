@@ -4,7 +4,7 @@
   links: 
     - title: ping检测
       url: https://ping.chinaz.com/
-      logo: https://csstools.chinaz.com/tools/images/public/logos/logo-index.png
+      logo: https://csstools.chinaz.com/favicon.ico
     - title: 数字海洋
       url: https://cloud.digitalocean.com/
       logo: https://cloud.digitalocean.com/apple-touch-icon.png
@@ -61,18 +61,21 @@
       url: https://my.vultr.com/
       logo: https://api.iowen.cn/favicon/www.vultr.com.png
 
-- taxonomy: 域名解析
+- taxonomy: AI工具
   icon: fab fa-internet-explorer
   links: 
-    - title: DNSPod
-      url: https://www.dnspod.cn/login
-      logo: https://api.iowen.cn/favicon/www.dnspod.cn.png
-    - title: NameSilo
-      url: https://www.namesilo.com/login
-      logo: https://api.iowen.cn/favicon/www.namesilo.com.png
-    - title: Cloudflare
-      url: https://dash.cloudflare.com/login
-      logo: https://api.iowen.cn/favicon/cloudflare.com.png
+    - title: librechat
+      url: https://ikunchat.shineai.life/c/new
+      logo: https://ikunchat.shineai.life/assets/favicon-16x16.png
+    - title: 潘多拉
+      url: https://chat.oaifree.com/auth/login?state=Ph4cayZvsMPgu-1HiT544SPFMKHviy72O1dZnj3e3BSnEWJnuDNrk1b03CYidx4oCqCq5uxNomVE
+      logo: https://chat.oaifree.com/_next/static/media/favicon-32x32.be48395e.png
+    - title: CF AI 
+      url: https://ai.jaze.top/
+      logo: https://ai.jaze.top/favicon.ico
+      - title: 潘多拉共享
+      url: https://chat-shared3.zhile.io/shared.html?v=2
+      logo: https://chat-shared3.zhile.io/apple-touch-icon.png 
 
 - taxonomy: 翻译工具
   icon: fas fa-language
