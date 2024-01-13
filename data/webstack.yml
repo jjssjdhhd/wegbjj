@@ -4,20 +4,32 @@
   links: 
     - title: ping检测
       url: https://ping.chinaz.com/
-      logo: assets/images/logos/pingjianche.png
+      logo: https://csstools.chinaz.com/tools/images/public/logos/logo-index.png
     - title: 数字海洋
       url: https://cloud.digitalocean.com/
-      logo: assets/images/logos/digitalocean.png
+      logo: https://cloud.digitalocean.com/apple-touch-icon.png
     - title: Vercel
       url: https://www.vercel.com/
       logo: https://api.iowen.cn/favicon/www.vercel.com.png
-    - title: Greasyfork
-      url: https://greasyfork.org/zh-CN/
-      logo: https://greasyfork.org/vite/assets/blacklogo96-e0c2c761.png
-    - title: Ping Test
-      url: http://ping.pe/
-      logo: https://api.iowen.cn/favicon/ping.com.png
-  
+    - title: 莱卡云
+      url: https://www.lcayun.com/
+      logo: https://www.lcayun.com/favicon.ico
+    - title: 老狗博客
+      url: https://laogou717.com/
+      logo: https://laogou717.com/favicon.ico
+  - title: 奶油博客
+      url: https://naiyous.com/
+      logo: https://naiyous.com/wp-content/uploads/2022/11/LOGO-200x125.png
+    - title: 最佳平替
+      url: https://www.pingti.xyz/
+      logo: https://www.pingti.xyz/favicon.ico
+    - title: P站
+      url: https://pixiv.js.org/
+      logo: https://pixiv.js.org/favicon.ico
+    - title: A姐
+      url: https://www.ahhhhfs.com/
+      logo: https://www.ahhhhfs.com/wp-content/uploads/2021/07/1625221481-04bb5153c0db541-32x32.webp
+    
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
