@@ -115,9 +115,6 @@
     - title: 有道翻译
       url: http://fanyi.youdao.com/
       logo: https://api.iowen.cn/favicon/youdao.com.png
-    - title: Google翻译
-      url: https://translate.google.cn/
-      logo: https://api.iowen.cn/favicon/translate.google.cn.png
     - title: 腾讯翻译君
       url: https://fanyi.qq.com/
       logo: https://api.iowen.cn/favicon/fanyi.qq.com.png
@@ -130,12 +127,6 @@
     - title: 語源由来辞典
       url: https://gogen-yurai.jp/
       logo: https://api.iowen.cn/favicon/gogen-yurai.jp.png
-    - title: 日本語文章校正
-      url: https://so-zou.jp/web-app/text/proofreading/
-      logo: https://api.iowen.cn/favicon/so-zou.jp.png
-    - title: NLT检索
-      url: https://tsukubawebcorpus.jp/search/
-      logo: https://api.iowen.cn/favicon/tsukubawebcorpus.jp.png
 
 
 - taxonomy: 镜像
@@ -170,27 +161,6 @@
     - title: 菜鸟教程
       url: https://www.runoob.com/
       logo: https://api.iowen.cn/favicon/www.runoob.com.png
-    - title: W3School
-      url: https://www.w3school.com.cn/
-      logo: https://api.iowen.cn/favicon/www.w3school.com.cn.png
-    - title: 书栈网
-      url: https://www.bookstack.cn/
-      logo: https://api.iowen.cn/favicon/www.bookstack.cn.png
-    - title: CISSP笔记
-      url: https://firmianay.gitbook.io/cissp-notes/
-      logo: https://app.gitbook.com/public/images/icon-512.png
-    - title: ISC2
-      url: https://www.isc2.org/
-      logo: https://api.iowen.cn/favicon/www.isc2.org.png  
-    - title: ISACA
-      url: https://www.isaca.org/
-      logo: https://api.iowen.cn/favicon/www.isaca.org.png  
-    - title: Comptia
-      url: https://www.comptia.org/
-      logo: https://api.iowen.cn/favicon/www.comptia.org.png  
-    - title: CertMike
-      url: https://www.certmike.com/
-      logo: https://api.iowen.cn/favicon/www.certmike.com.png  
 
 - taxonomy: 办公工具
   icon: fas fa-pray
@@ -245,36 +215,6 @@
 - taxonomy: 技术博客
   icon: fas fa-blog
   links:  
-    - title: 挖站否
-      url: https://wzfou.com/
-      logo: https://api.iowen.cn/favicon/wzfou.com.png
-    - title: 回收站
-      url: https://twovps.org/
-      logo: https://api.iowen.cn/favicon/twovps.org.png
-    - title: 小z
-      url: https://www.xiaoz.me/
-      logo: https://api.iowen.cn/favicon/www.xiaoz.me.png
-    - title: 大鸟
-      url: https://www.daniao.org/
-      logo: https://api.iowen.cn/favicon/www.daniao.org.png
-    - title: 少数派
-      url: https://sspai.com/
-      logo: https://api.iowen.cn/favicon/sspai.com.png
-    - title: Cike
-      url: https://cikeblog.com/
-      logo: https://api.iowen.cn/favicon/cikeblog.com.png
-    - title: 笨猫
-      url: https://www.nbmao.com/
-      logo: https://api.iowen.cn/favicon/nbmao.com.png
-    - title: 猫饭
-      url: https://maofun.com/
-      logo: https://api.iowen.cn/favicon/maofun.com.png
-    - title: tlanyan
-      url: https://tlanyan.me/
-      logo: https://api.iowen.cn/favicon/tlanyan.me.png
-    - title: 顶点
-      url: https://www.topide.com/
-      logo: https://api.iowen.cn/favicon/topide.com.png
 
 - taxonomy: 素材设计
   icon: fas fa-palette
