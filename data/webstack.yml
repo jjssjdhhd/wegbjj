@@ -87,6 +87,21 @@
     - title: cfai
       url: https://ai.jaze.top/?session=1
       logo: https://ai.jaze.top/favicon.ico
+    - title: g4f
+      url: https://qieqies-g4f.hf.space/
+      logo: https://qieqies-g4f.hf.space/assets/img/favicon-32x32.png
+    - title: chat-sydney
+      url: https://dongsiqie-sydney.hf.space/
+      logo: https://dongsiqie-sydney.hf.space/favicon.ico
+    - title: bingo
+      url: https://dongsiqie-bingo-api.hf.space/
+      logo: https://dongsiqie-bingo-api.hf.space/favicon.ico
+    - title: Sensenova
+      url: https://chat.yangyanqing.cn/
+      logo: https://chat.yangyanqing.cn/favicon.ico
+    - title: fast-stable-diffusion
+      url: https://prodia-fast-stable-diffusion.hf.space/
+      logo: https://prodia-fast-stable-diffusion.hf.space/favicon.ico     
 
 - taxonomy: 翻译工具
   icon: fas fa-language
