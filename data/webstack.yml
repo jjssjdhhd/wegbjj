@@ -2,12 +2,12 @@
 - taxonomy: 常用网站
   icon: far fa-star
   links: 
-    - title: GitHub
-      url: https://github.com/
-      logo: https://api.iowen.cn/favicon/github.com.png
-    - title: HelloGithub
-      url: https://hellogithub.com/
-      logo: https://api.iowen.cn/favicon/hellogithub.com.png
+    - title: ping检测
+      url: https://ping.chinaz.com/
+      logo: assets/images/logos/pingjianche.png
+    - title: 数字海洋
+      url: https://cloud.digitalocean.com/
+      logo: assets/images/logos/digitalocean.png
     - title: Vercel
       url: https://www.vercel.com/
       logo: https://api.iowen.cn/favicon/www.vercel.com.png
