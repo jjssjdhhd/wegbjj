@@ -4,7 +4,7 @@
   links: 
     - title: ping检测
       url: https://ping.chinaz.com/
-      logo: https://csstools.chinaz.com/favicon.ico
+      logo: https://www.itdog.cn/favicon.ico
     - title: 数字海洋
       url: https://cloud.digitalocean.com/
       logo: https://cloud.digitalocean.com/apple-touch-icon.png
@@ -32,6 +32,9 @@
     - title: z-library
       url: https://zh.z-library.se/
       logo: https://zh.z-library.se/favicon.ico?v=1
+    - title: GitHub
+      url: https://github.com/
+      logo: https://github.com/apple-touch-icon-57x57.png
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
