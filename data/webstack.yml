@@ -202,18 +202,30 @@
       url: http://www.pptmall.net/
       logo: https://api.iowen.cn/favicon/www.pptmall.net.png
 
-- taxonomy: 技术交流
+- taxonomy: 悠闲娱乐
   icon: far fa-comments
   links:  
-    - title: Hostloc
-      url: https://hostloc.com/
-      logo: https://api.iowen.cn/favicon/hostloc.com.png
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-    - title: 恩山无线
-      url: https://www.right.com.cn/forum/forum.php
-      logo: https://api.iowen.cn/favicon/right.com.cn.png
+    - title: 腾讯视频
+      url: http://v.qq.com/
+      logo: https://v.qq.com/apple-touch-icon-72x72-precomposed.png
+    - title: 优酷
+      logo: https://www.youku.com/favicon.ico
+      url: http://www.youku.com/
+    - title: 爱奇艺
+      url: https://www.iqiyi.com/
+      logo: https://www.iqiyipic.com/pcwimg/128-128-logo.png
+    - title: 哔哩哔哩
+      url: https://www.bilibili.com/
+      logo: https://static.hdslb.com/mobile/img/512.png         
+    - title: 路漫漫在线
+      url: https://www.tcyy360.com/type/dianying.html
+      logo: https://www.tcyy360.com/template/jable/statics/icon/apple-touch-icon.png
+    - title: 爱看剧
+      url: https://www.ikanju.vip/
+      logo: https://p0.meituan.net/csc/ddc627b07d129d5910abd56aa7bfffdd15202.png
+    - title: 可可影视
+      url: https://www.keke2.app/
+      logo: https://182.237.1.120:8004/images/p/keke/favicon.ico?ver=231126
 
 - taxonomy: 技术博客
   icon: fas fa-blog
