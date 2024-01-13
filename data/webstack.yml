@@ -119,7 +119,7 @@
   links:  
     - title: 谷歌搜索
       url: https://search.fuyeor.com/zh-cn/Google
-      logo: https://www.google.com.hk/favicon.ico  
+      logo: https://search.fuyeor.com/favicon.ico  
     - title: 谷歌地球
       url: http://www.gditu.net/
       logo: https://www.gstatic.com/earth/00-favicon.ico
@@ -354,9 +354,6 @@
     - title: 荔枝数码
       url: https://lizhi.shop/
       logo: https://www.lizhi.io/wp-content/themes/lizhiwptheme/res/images/apple-touch-icon.png
-    - title: SoftUFO
-      url: https://www.softufo.com/
-      logo: https://api.iowen.cn/favicon/www.softufo.com.png
 
 
 - taxonomy: 其他工具
