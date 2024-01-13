@@ -22,7 +22,7 @@ body,html{font-size:14px;}
 .header-big:not(.no-bg) .s-type-list{color:#20c997}
 /*主页搜索搜索框头部字体颜色 -- end*/
 /* 主页搜索搜索框底部字体颜色 -- start*/
-.header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#6c757d!important}
+.header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#000000!important}
 /*主页搜索搜索框底部字体颜色 -- end*/
 /*主页header-banner底部宽度 -- start*/
 .post-top{padding-bottom:50px}
@@ -32,7 +32,7 @@ body,html{font-size:14px;}
 /*头部导航二级导航iconfont图标*/
 .navbar-collapse ul li.menu-item-has-children:after{content:'\e612';}
 /*搜索部分背景样式*/
-.header-big.css-color{background-color: #2C3E50;background-size:unset;background-position:unset;animation:unset;}
+.header-big.css-color{background-color: #000000;background-size:unset;background-position:unset;animation:unset;}
 /*其他调整*/
 .search-hot-text{
   position: absolute;
