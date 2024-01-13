@@ -29,7 +29,9 @@
     - title: A姐
       url: https://www.ahhhhfs.com/
       logo: https://www.ahhhhfs.com/wp-content/uploads/2021/07/1625221481-04bb5153c0db541-32x32.webp
-    
+    - title: z-library
+      url: https://zh.z-library.se/
+      logo: https://zh.z-library.se/favicon.ico?v=1
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
@@ -110,55 +112,21 @@
     - title: NLT检索
       url: https://tsukubawebcorpus.jp/search/
       logo: https://api.iowen.cn/favicon/tsukubawebcorpus.jp.png
-    - title: 用例.jp
-      url: http://yourei.jp/
-      logo: https://api.iowen.cn/favicon/yourei.jp.png
 
-- taxonomy: 信息安全
+
+- taxonomy: 镜像
   icon: fas fa-shield-alt
   links:  
-    - title: 安全内参
-      url: https://www.secrss.com/
-      logo: https://api.iowen.cn/favicon/www.secrss.com.png  
-    - title: FreeBuf
-      url: https://www.freebuf.com/
-      logo: freebuf.png
-    - title: Gartner
-      url: https://gartner.com/
-      logo: https://api.iowen.cn/favicon/gartner.com.png  
-    - title: 每日安全资讯
-      url: https://vulntotal-team.github.io/yarb/today.html
-      logo: news.png
-    - title: 奇安信漏洞库
-      url: https://ti.qianxin.com/
-      logo: https://ti.qianxin.com/microapps/portal-ti/static/img/sandbox_s.5c6c5a9.png
-    - title: 阿里云漏洞库
-      url: https://avd.aliyun.com/
-      logo: https://api.iowen.cn/favicon/avd.aliyun.com.png  
-    - title: CVE漏洞库
-      url: https://cve.mitre.org/cve/search_cve_list.html
-      logo: cve.png
-    - title: NVD漏洞库
-      url: https://nvd.nist.gov/vuln/search
-      logo: https://api.iowen.cn/favicon/nist.gov.png  
-    - title: 标准网
-      url: https://www.biaozhun.org/
-      logo: https://api.iowen.cn/favicon/www.biaozhun.org.png  
-    - title: 中华人民共和国工业和信息化部
-      url: https://wap.miit.gov.cn/index.html
-      logo: zf.png  
-    - title: 中央网络安全和信息化委员会办公室
-      url: http://www.cac.gov.cn/
-      logo: zf.png    
-    - title: 全国信息安全标准化技术委员会
-      url: https://www.tc260.org.cn/
-      logo: zf.png    
-    - title: 信息通信管理局
-      url: https://wap.miit.gov.cn/jgsj/xgj/index.html
-      logo: zf.png   
-    - title: 中国网络安全审查技术与认证中心
-      url: https://www.isccc.gov.cn/
-      logo: zf.png    
+    - title: 谷歌搜索
+      url: https://search.fuyeor.com/zh-cn/Google
+      logo: https://www.google.com.hk/favicon.ico  
+    - title: 谷歌地球
+      url: http://www.gditu.net/
+      logo: https://www.gstatic.com/earth/00-favicon.ico
+    - title: 学术搜索
+      url: https://www.mydyjs.com/shu.html
+      logo: https://www.mydyjs.com/favicon.png  
+
 
 - taxonomy: 学习提升
   icon: fas fa-user-graduate
