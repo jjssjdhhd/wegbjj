@@ -2,35 +2,35 @@
 - taxonomy: 神奇网站
   icon: far fa-star
   links: 
-    - title: "ping检测"
-      url: "https://ping.chinaz.com/"
-      logo: "assets/images/logos/pingjianche.png" # 示例logo路径，需根据实际情况更改
-   - title: "老狗博客"
-      url: "https://laogou717.com/"
-      logo: "assets/images/logos/laogou.png" # 示例logo路径，需根据实际情况更改
-   - title: "奶油博客"
-      url: "https://naiyous.com/"
-      logo: "assets/images/logos/naiyou.png" # 示例logo路径，需根据实际情况更改
-- title: "最佳平替"
-  url: "https://www.pingti.xyz/"
-  description: "最佳平替资源网站。"
-  logo: "assets/images/logos/pingti.png" # 示例logo路径，需根据实际情况更改
-- title: "p站"
-  url: "https://pixiv.js.org/"
-  description: "Pixiv的JavaScript工具库。"
-  logo: "assets/images/logos/pixiv.png" # 示例logo路径，需根据实际情况更改
-- title: "数字海洋"
-  url: "https://cloud.digitalocean.com/"
-  description: "DigitalOcean的云服务平台。"
-  logo: "assets/images/logos/digitalocean.png" # 示例logo路径，需根据实际情况更改
-- title: "莱卡云"
-  url: "https://www.lcayun.com/"
-  description: "莱卡云服务提供商。"
-  logo: "assets/images/logos/laikayun.png" # 示例logo路径，需根据实际情况更改
-- title: "A姐"
-  url: "https://www.ahhhhfs.com/"
-  description: "A姐的个人网站。"
-  logo: "assets/images/logos/ajie.png" # 示例logo路径，需根据实际情况更改
+    title: "ping检测"
+url: "https://ping.chinaz.com/"
+logo: "assets/images/logos/pingjianche.png"
+title: "数字海洋"
+url: "https://cloud.digitalocean.com/"
+description: "DigitalOcean的云服务平台。"
+logo: "assets/images/logos/digitalocean.png"
+title: "莱卡云"
+url: "https://www.lcayun.com/"
+description: "莱卡云服务提供商。"
+logo: "assets/images/logos/laikayun.png"
+title: "老狗博客"
+url: "https://laogou717.com/"
+logo: "assets/images/logos/laogou.png"
+title: "奶油博客"
+url: "https://naiyous.com/"
+logo: "assets/images/logos/naiyou.png"
+title: "最佳平替"
+url: "https://www.pingti.xyz/"
+description: "最佳平替资源网站。"
+logo: "assets/images/logos/pingti.png"
+title: "p站"
+url: "https://pixiv.js.org/"
+description: "Pixiv的JavaScript工具库。"
+logo: "assets/images/logos/pixiv.png"
+title: "A姐"
+url: "https://www.ahhhhfs.com/"
+description: "A姐的个人网站。"
+logo: "assets/images/logos/ajie.png"
   
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
