@@ -38,6 +38,9 @@
     - title: Notion
       url: https://www.notion.so/
       logo: https://www.notion.so/images/favicon.ico
+    - title: koodo
+      url: https://reader1.369001.xyz/
+      logo: https://reader1.369001.xyz/favicon.png
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
@@ -381,18 +384,15 @@
       url: https://github.com/alexpate/awesome-design-systems
       logo: awesome_design_systems.png     
 
-- taxonomy: 日语资讯
+- taxonomy: 学术
   icon: far fa-newspaper
   links:
-    - title: 人民網日本語版
-      url: http://j.people.com.cn/
-      logo: rmw.png
-    - title: NHK ラジオニュース
-      url: https://www.nhk.or.jp/radionews/
-      logo: https://api.iowen.cn/favicon/www.nhk.or.jp.png
-    - title: 日テレNEWS24
-      url: https://www.news24.jp/index.html
-      logo: https://api.iowen.cn/favicon/www.news24.jp.png
+    - title: pubscholar学术交流平台
+      url: https://pubscholar.cn/
+      logo: https://pubscholar.cn/static/favicon-wfn3fg.ico
+    - title: 知网
+      url: https://www.cnki.net/
+      logo: https://www.cnki.net/apple-touch-icon.png
 
 #- taxonomy: 
 #  icon: far fa-star
