@@ -253,21 +253,6 @@
         - title: flatuicolorpicker
           url: http://www.flatuicolorpicker.com/
           logo: flatuicolorpicker.png
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
 
 - taxonomy: 软件探索
   icon: fab fa-microsoft
