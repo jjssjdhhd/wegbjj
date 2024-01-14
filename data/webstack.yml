@@ -119,7 +119,9 @@
     - title: 学术搜索
       url: https://www.mydyjs.com/shu.html
       logo: https://www.mydyjs.com/favicon.png  
-
+    - title: 抱脸
+      url: https://hf.dongsiqie.me/spaces
+      logo: https://hf.dongsiqie.me/favicon.ico
 
 - taxonomy: 学习提升
   icon: fas fa-user-graduate
