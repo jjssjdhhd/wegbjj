@@ -178,9 +178,21 @@
       url: https://www.keke2.app/
       logo: https://182.237.1.120:8004/images/p/keke/favicon.ico?ver=231126
 
-- taxonomy: 技术博客
+- taxonomy: 网盘
   icon: fas fa-blog
   links:  
+    - title: 百度网盘
+      url: https://pan.baidu.com/
+      logo: https://nd-static.bdstatic.com/m-static/wp-brand/favicon.ico
+    - title: 阿里云盘
+      logo: https://www.aliyundrive.com/drive/
+      url: https://img.alicdn.com/imgextra/i1/O1CN01JDQCi21Dc8EfbRwvF_!!6000000000236-73-tps-64-64.ico
+    - title: 夸克网盘
+      url: https://pan.quark.cn/#/list/all
+      logo: https://image.quark.cn/s/uae/g/3o/broccoli/resource/202304/c62b4840-e344-11ed-93c7-392f83c2aa26.png
+    - title: 蓝奏云
+      url: https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php
+      logo: https://pc.woozooo.com/favicon.ico        
 
 - taxonomy: 素材设计
   icon: fas fa-palette
