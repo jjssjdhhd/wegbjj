@@ -44,9 +44,9 @@
     - title: 阿里云
       url: https://account.aliyun.com/login/login.htm
       logo: https://api.iowen.cn/favicon/www.aliyun.com.png
-    - title: UCloud
-      url: https://passport.ucloud.cn/#login
-      logo: https://api.iowen.cn/favicon/www.ucloud.cn.png
+    - title: zeabur
+      url: https://zeabur.com/zh-CN
+      logo: https://zeabur.com/favicon.svg
     - title: 华为云
       url: https://auth.huaweicloud.com/authui/login.html#/login
       logo: https://api.iowen.cn/favicon/www.huawei.com.png
@@ -56,6 +56,9 @@
     - title: 莱卡云
       url: https://www.lcayun.com/
       logo: https://www.lcayun.com/favicon.ico
+    - title: cloudflare
+      url: https://dash.cloudflare.com/login
+      logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png      
 - taxonomy: AI工具
   icon: fab fa-internet-explorer
   links: 
