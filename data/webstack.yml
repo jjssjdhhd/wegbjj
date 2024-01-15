@@ -198,7 +198,9 @@
     - title: 蓝奏云
       url: https://pc.woozooo.com/account.php?action=login&ref=/mydisk.php
       logo: https://pc.woozooo.com/favicon.ico        
-
+    - title: onedrive
+      url: https://login.microsoftonline.com/
+      logo: https://res.cdn.office.net/officehub/images/content/images/favicon_m365-67350a08e8.ico
 - taxonomy: 素材设计
   icon: fas fa-palette
   list:
@@ -265,12 +267,6 @@
     - title: 异次元
       url: https://www.iplaysoft.com/
       logo: https://api.iowen.cn/favicon/www.iplaysoft.com.png
-    - title: 风之遐想
-      url: https://www.fzxx.xyz/
-      logo: https://api.iowen.cn/favicon/infosecinstitute.com.png
-    - title: 小众软件
-      url: https://www.appinn.com/
-      logo: appinn.png
 
 
 - taxonomy: 其他工具
