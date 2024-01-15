@@ -38,6 +38,9 @@
     - title: koodo
       url: https://reader1.369001.xyz/
       logo: https://reader1.369001.xyz/favicon.png
+    - title: Deta
+      url: https://deta.space/
+      logo: https://deta.space/favicon.png
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
