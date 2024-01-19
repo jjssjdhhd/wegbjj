@@ -61,7 +61,10 @@
       logo: https://www.lcayun.com/favicon.ico
     - title: cloudflare
       url: https://dash.cloudflare.com/login
-      logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png      
+      logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png 
+    - title: AKile
+      url: https://akile.io/
+      logo: https://akile.io/favicon.ico
 - taxonomy: AI工具
   icon: fab fa-internet-explorer
   links: 
