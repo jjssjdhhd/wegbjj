@@ -26,9 +26,9 @@
     - title: A姐
       url: https://www.ahhhhfs.com/
       logo: https://www.ahhhhfs.com/wp-content/uploads/2021/07/1625221481-04bb5153c0db541-32x32.webp
-    - title: z-library
-      url: https://zh.z-library.se/
-      logo: https://zh.z-library.se/favicon.ico?v=1
+    - title: page sandbox
+      url: https://wiki.369001.xyz/
+      logo: https://th.bing.com/th/id/OIP.A8hieONlBtt-0vAQLHVpdgHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7
     - title: GitHub
       url: https://github.com/
       logo: https://tse1-mm.cn.bing.net/th/id/OIP-C.tYZDf8JqC9FgQj-m0IZHPgAAAA?w=129&h=133&c=7&r=0&o=5&dpr=1.3&pid=1.7
@@ -68,9 +68,6 @@
 - taxonomy: AI工具
   icon: fab fa-internet-explorer
   links: 
-    - title: librechat
-      url: https://ikunchat.shineai.life/c/new
-      logo: https://ikunchat.shineai.life/assets/favicon-16x16.png
     - title: cfai
       url: https://ai.jaze.top/?session=1
       logo: https://ai.jaze.top/favicon.ico
