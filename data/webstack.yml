@@ -41,6 +41,12 @@
     - title: Deta
       url: https://deta.space/
       logo: https://deta.space/favicon.png
+    - title: NS
+      url: https://www.nodeseek.com/
+      logo: https://www.nodeseek.com/static/image/favicon/apple-touch-icon.png
+    - title: 史皇网站
+      url: https://linux.do/
+      logo: https://cdn.linux.do/uploads/default/optimized/1X/3a18b4b0da3e8cf96f7eea15241c3d251f28a39b_2_180x180.png
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
   links: 
@@ -65,6 +71,10 @@
     - title: AKile
       url: https://akile.io/
       logo: https://akile.io/favicon.ico
+    - title: v.ps
+      url: https://vps.hosting/
+      logo: https://vps.hosting/favicon.ico
+      
 - taxonomy: AI工具
   icon: fab fa-internet-explorer
   links: 
@@ -76,7 +86,11 @@
       logo: https://tse1-mm.cn.bing.net/th/id/OIP-C.NDsFbIBaMJ014iktMpBPagAAAA?w=144&h=150&c=7&r=0&o=5&dpr=1.3&pid=1.7
     - title: 智谱清言
       url: https://chatglm.cn/
-      logo: https://chatglm.cn/favicon.ico    
+      logo: https://chatglm.cn/favicon.ico
+    - title: chat
+      url: https://c2c.gpt4fr.ee/
+      logo: https://c2c.gpt4fr.ee/favicon.ico
+      
 
 - taxonomy: 翻译工具
   icon: fas fa-language
@@ -109,8 +123,10 @@
       logo: https://www.gstatic.com/earth/00-favicon.ico
     - title: 学术搜索
       url: https://www.mydyjs.com/shu.html
-      logo: https://www.mydyjs.com/favicon.png  
-
+      logo: https://www.mydyjs.com/favicon.png
+    - title: 谷歌地球1
+      url: http://www.wxno.com/
+      logo: https://www.gstatic.com/earth/00-favicon.ico
 - taxonomy: 学习提升
   icon: fas fa-user-graduate
   links:  
