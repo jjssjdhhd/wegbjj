@@ -107,9 +107,6 @@
     - title: 腾讯翻译君
       url: https://fanyi.qq.com/
       logo: https://api.iowen.cn/favicon/fanyi.qq.com.png
-    - title: 翻译狗
-      url: http://www.fanyigou.com/trans/login.html
-      logo: https://api.iowen.cn/favicon/www.fanyigou.com.png
 
 
 - taxonomy: 镜像
@@ -155,9 +152,6 @@
     - title: 优品PPT
       url: http://www.ypppt.com/
       logo: https://api.iowen.cn/favicon/www.ypppt.com.png
-    - title: PPTMall
-      url: http://www.pptmall.net/
-      logo: https://api.iowen.cn/favicon/www.pptmall.net.png
 
 - taxonomy: 悠闲娱乐
   icon: far fa-comments
@@ -174,15 +168,18 @@
     - title: 哔哩哔哩
       url: https://www.bilibili.com/
       logo: https://static.hdslb.com/mobile/img/512.png         
-    - title: 路漫漫在线
-      url: https://www.tcyy360.com/type/dianying.html
-      logo: https://www.tcyy360.com/template/jable/statics/icon/apple-touch-icon.png
-    - title: 爱看剧
-      url: https://www.ikanju.vip/
-      logo: https://p0.meituan.net/csc/ddc627b07d129d5910abd56aa7bfffdd15202.png
-    - title: 可可影视
-      url: https://www.keke2.app/
-      logo: https://182.237.1.120:8004/images/p/keke/favicon.ico?ver=231126
+    - title: 豌豆影视
+      url: http://wandou.ink/
+      logo: http://wandou.ink/mxtheme/images/favicon.png
+    - title: 樱花动漫
+      url: https://www.iyhdmm.com/
+      logo: https://www.iyhdmm.com/tpsf/yh_pic/favicon.ico
+    - title: 555影视
+      url: https://555ys.cc/
+      logo: https://555ys.cc/upload/mxprocms/20231224-1/663803c66ed20290e6fbda130e17d65a.png
+    - title: 大米星球
+      url: https://damit.site/label/netflix/page/85.html
+      logo: https://f746f90.ynajax.com/storage/images/2023-11-15/41/0e291f49fda6dd47fb1e8c158ca26bf3.webp
 
 - taxonomy: 网盘
   icon: fas fa-blog
@@ -202,6 +199,9 @@
     - title: onedrive
       url: https://login.microsoftonline.com/
       logo: https://res.cdn.office.net/officehub/images/content/images/favicon_m365-67350a08e8.ico
+    - title: Alist
+      url: https://alist.pan-zyh.eu.org/
+      logo: https://jsd.nn.ci/gh/alist-org/logo@main/logo.png
 - taxonomy: 素材设计
   icon: fas fa-palette
   list:
