@@ -306,13 +306,22 @@
       logo: https://api.iowen.cn/favicon/www.iplaysoft.com.png
 
 
-- taxonomy: 其他工具
+- taxonomy: 邮箱
   icon: fas fa-wrench
   links:
-    - title: goqr
-      url: http://goqr.me/
-      logo: https://goqr.me/_Resources/Static/Packages/GoQrMe.Ui/Images/qr_default.png
-
+    - title: Outlook
+      url: https://outlook.live.com/
+      logo: https://res.cdn.office.net/assets/mail/pwa/v1/pngs/Outlook.64x64x32.png
+    - title: 谷歌邮箱
+      url: https://mail.google.com/mail/
+      logo: https://src.onlinedown.net/d/file/p/2018-06-08/22f0616682bf16b342ebff936c8c3c64.png
+    - title: 163邮箱
+      url: https://mail.163.com/
+      logo: https://mail.163.com/apple-touch-icon-120x120.png
+    - title: QQ邮箱
+      url: https://mail.qq.com/
+      logo: https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_48h.png
+      
 - taxonomy: 学术
   icon: far fa-newspaper
   links:
