@@ -298,12 +298,18 @@
           url: http://www.flatuicolorpicker.com/
           logo: flatuicolorpicker.png
 
-- taxonomy: 软件探索
+- taxonomy: 奇妙屋
   icon: fab fa-microsoft
   links:
-    - title: 异次元
-      url: https://www.iplaysoft.com/
-      logo: https://api.iowen.cn/favicon/www.iplaysoft.com.png
+    - title: fakecard
+      url: https://www.fakenamegenerator.com/
+      logo: https://www.fakenamegenerator.com/favicon.ico
+    - title: 临时Gmail邮箱
+      url: https://smailpro.com/advanced
+      logo: https://smailpro.com/img/smailpro.com/favicon.ico?v=1.2
+    - title: 临时edu邮箱
+      url: https://etempmail.com/
+      logo: https://etempmail.com/assets/img/fav/android-icon-48x48.png
 
 
 - taxonomy: 邮箱
