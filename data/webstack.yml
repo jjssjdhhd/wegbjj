@@ -129,13 +129,13 @@
       url: http://fanyi.youdao.com/
       logo: https://api.iowen.cn/favicon/youdao.com.png
     - title: 谷歌翻译1
-      url: 8.210.121.248
+      url: http://8.210.121.248/
       logo: http://ssl.gstatic.com/translate/favicon.ico
     - title: 谷歌翻译2
-      url: 43.128.4.7
+      url: http://43.128.4.7/
       logo: http://ssl.gstatic.com/translate/favicon.ico
     - title: 谷歌翻译3
-      url: 152.32.172.148
+      url: http://152.32.172.148/
       logo: http://ssl.gstatic.com/translate/favicon.ico
 
 - taxonomy: 镜像
