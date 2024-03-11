@@ -5,9 +5,6 @@
     - title: ping检测
       url: https://ping.chinaz.com/
       logo: https://www.itdog.cn/favicon.ico
-    - title: 数字海洋
-      url: https://cloud.digitalocean.com/
-      logo: https://cloud.digitalocean.com/apple-touch-icon.png
     - title: Vercel
       url: https://www.vercel.com/
       logo: https://api.iowen.cn/favicon/www.vercel.com.png
@@ -89,9 +86,9 @@
     - title: 斯巴达
       url: https://billing.spartanhost.net/aff.php?aff=2373
       logo: https://spartanhost.org/images/favicon.png
-    - title: cloudflare
-      url: https://dash.cloudflare.com/login
-      logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png 
+    - title: 数字海洋
+      url: https://cloud.digitalocean.com/
+      logo: https://cloud.digitalocean.com/apple-touch-icon.png
     - title: 全球vps监控
       url: https://ping0.cc/
       logo: https://ping0.cc/favicon.ico
@@ -128,16 +125,18 @@
     - title: DeepL
       url: https://www.deepl.com/zh/translator
       logo: https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg
-    - title: 沪江小D
-      url: https://dict.hjenglish.com/app/trans
-      logo: https://res.hjfile.cn/tool/dict.hjenglish.com/img/logo@2x-e5fcc.png
     - title: 有道翻译
       url: http://fanyi.youdao.com/
       logo: https://api.iowen.cn/favicon/youdao.com.png
-    - title: 腾讯翻译君
-      url: https://fanyi.qq.com/
-      logo: https://api.iowen.cn/favicon/fanyi.qq.com.png
-
+    - title: 谷歌翻译1
+      url: 8.210.121.248
+      logo: http://ssl.gstatic.com/translate/favicon.ico
+    - title: 谷歌翻译2
+      url: 43.128.4.7
+      logo: http://ssl.gstatic.com/translate/favicon.ico
+    - title: 谷歌翻译3
+      url: 152.32.172.148
+      logo: http://ssl.gstatic.com/translate/favicon.ico
 
 - taxonomy: 镜像
   icon: fas fa-shield-alt
