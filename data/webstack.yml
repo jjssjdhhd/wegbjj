@@ -215,6 +215,9 @@
     - title: 抖音
       url: https://www.douyin.com/
       logo: https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/pwa_v3/128_128.png
+    - title: 奈飞鸭
+      url: https://www.netflixgc.com/
+      logo: https://imgsrc.baidu.com/forum/pic/item/a044ad345982b2b7d5b928fd77adcbef76099be0.jpg
 
 - taxonomy: 网盘
   icon: fas fa-blog
