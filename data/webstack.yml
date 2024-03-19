@@ -65,9 +65,6 @@
     - title: cloudflare
       url: https://dash.cloudflare.com/login
       logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png 
-    - title: AKile
-      url: https://akile.io/
-      logo: https://akile.io/favicon.ico
     - title: v.ps
       url: https://vps.hosting/
       logo: https://vps.hosting/favicon.ico
@@ -98,12 +95,7 @@
     - title: Ion clound
       url: https://ion.krypt.asia/aff.php?aff=1828
       logo: https://ion.krypt.asia/templates/cloudhub2/template/img/icons/favicon-96x96.png
-    - title: Atlantic
-      url: https://cloud.atlantic.net/
-      logo: https://cloud.atlantic.net/assets/img/ico/rs/6233dc661369ad6560e4270e227c7767.ico
-    - title: OVH
-      url: https://www.ovhcloud.com/en-sg/
-      logo: https://ca.ovh.com/apple-touch-icon-120x120-precomposed.png 
+
       
 - taxonomy: AI工具
   icon: fab fa-internet-explorer
@@ -283,12 +275,7 @@
         - title: Font Awesome Icon
           logo: fontawesomeicon.png
           url: https://fontawesome.com/icons/
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
+
     - term: 平面素材
       links:
         - title: Medialoot
