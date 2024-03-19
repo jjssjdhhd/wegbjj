@@ -117,6 +117,18 @@
     - title: 智谱清言
       url: https://chatglm.cn/
       logo: https://chatglm.cn/favicon.ico
+    - title: kimichat
+      url: https://kimi.moonshot.cn/
+      logo: https://statics.moonshot.cn/kimi-chat/favicon.ico
+    - title: 伊利斯chat
+      url: https://ai.caifree.com/
+      logo: https://ai.caifree.com/favicon.png
+    - title: chatk
+      url: https://chat.gking.me/
+      logo: https://chat.gking.me/icon.png
+    - title: lobechat
+      url: https://free.b3n.fun/
+      logo: https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/apple-touch-icon.png
       
 
 - taxonomy: 翻译工具
