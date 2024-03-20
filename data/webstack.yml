@@ -17,7 +17,7 @@
     - title: paypal
       url: https://www.paypal.com/
       logo: https://www.paypalobjects.com/webstatic/icon/pp196.png
-    - title: P站
+    - title: 二次元图片
       url: https://pixiv.js.org/
       logo: https://pixiv.js.org/favicon.ico
     - title: A姐
@@ -56,12 +56,6 @@
     - title: 华为云
       url: https://auth.huaweicloud.com/authui/login.html#/login
       logo: https://api.iowen.cn/favicon/www.huawei.com.png
-    - title: Vultr
-      url: https://my.vultr.com/
-      logo: https://api.iowen.cn/favicon/www.vultr.com.png
-    - title: 莱卡云
-      url: https://www.lcayun.com/
-      logo: https://www.lcayun.com/favicon.ico
     - title: cloudflare
       url: https://dash.cloudflare.com/login
       logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png 
@@ -71,30 +65,12 @@
     - title: 微软云
       url: https://azure.microsoft.com/zh-cn/free/
       logo: https://azure.microsoft.com/apple-touch-icon-57x57-precomposed.png
-    - title: Linode
-      url: https://www.linode.com/lp/refer/?r=f05d4a5d52a881b036d4779bce805d5a2435d90a
-      logo: https://assets.linode.com/icons/apple-touch-icon-57x57.png
     - title: netcup
       url: https://www.netcup.eu/
       logo: https://www.netcup.eu/static/assets/images/favicons/apple-touch-icon-76x76.png
-    - title: Dmit
-      url: https://www.dmit.io/aff.php?aff=4966
-      logo: https://www.dmit.io/favicon.ico
-    - title: 斯巴达
-      url: https://billing.spartanhost.net/aff.php?aff=2373
-      logo: https://spartanhost.org/images/favicon.png
-    - title: 数字海洋
-      url: https://cloud.digitalocean.com/
-      logo: https://cloud.digitalocean.com/apple-touch-icon.png
     - title: 全球vps监控
       url: https://ping0.cc/
       logo: https://ping0.cc/favicon.ico
-    - title: RN
-      url: https://my.racknerd.com/aff.php?aff=5501
-      logo: https://www.racknerd.com/favicon.png
-    - title: Ion clound
-      url: https://ion.krypt.asia/aff.php?aff=1828
-      logo: https://ion.krypt.asia/templates/cloudhub2/template/img/icons/favicon-96x96.png
 
       
 - taxonomy: AI工具
@@ -182,9 +158,6 @@
     - title: PDF转换
       url: https://www.ilovepdf.com/zh-cn
       logo: https://www.ilovepdf.com/img/app-icon.png
-    - title: ProcessOn
-      url: https://www.processon.com/
-      logo: https://api.iowen.cn/favicon/www.processon.com.png
     - title: 在线PS
       url: https://ps.gaoding.com/#/
       logo: https://api.iowen.cn/favicon/gaoding.com.png          
