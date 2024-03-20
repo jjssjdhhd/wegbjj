@@ -1,5 +1,5 @@
 ---
-- taxonomy: 神奇网站
+- taxonomy: 常用网站
   icon: far fa-star
   links: 
     - title: ping检测
@@ -121,6 +121,15 @@
     - title: lobechat
       url: https://free.b3n.fun/
       logo: https://registry.npmmirror.com/@lobehub/assets-favicons/latest/files/assets/apple-touch-icon.png
+    - title: mistral
+      url: https://chat.mistral.ai/
+      logo: https://storage.googleapis.com/bac-gcs-production/c7ee119eb4cfacb124a813f99e042b9b9ddd84d758047ecb810b1d70e849ee9357b38229a47ff06b6c81f6cdbc901bf364aa7c522ce897e3aae187dd73848d2d.png
+    - title: coze
+      url: https://www.coze.cn/
+      logo: https://lf-coze-web-cdn.coze.cn/obj/coze-web-cn/obric/coze/favicon.1970.png
+    - title: deepseek
+      url: https://www.deepseek.com/
+      logo: https://www.deepseek.com/favicon.ico
       
 
 - taxonomy: 翻译工具
@@ -179,9 +188,6 @@
     - title: 在线PS
       url: https://ps.gaoding.com/#/
       logo: https://api.iowen.cn/favicon/gaoding.com.png          
-    - title: 吾道素材
-      url: https://www.woodo.cn/template/
-      logo: https://api.iowen.cn/favicon/www.woodo.cn.png
     - title: 优品PPT
       url: http://www.ypppt.com/
       logo: https://api.iowen.cn/favicon/www.ypppt.com.png
@@ -249,12 +255,6 @@
   list:
     - term: 图标设计
       links:
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
         - title: World Vector Logo
           logo: worldvectorlogo.png
           url: https://worldvectorlogo.com/
@@ -272,18 +272,9 @@
         - title: flaticon
           logo: flaticon.png
           url: https://www.flaticon.com/
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
 
     - term: 平面素材
       links:
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
         - title: wallhalla
           logo: wallhalla.png
           url: https://wallhalla.com/
@@ -295,9 +286,6 @@
         - title: flatuicolors
           url: http://flatuicolors.com/
           logo: flatuicolors.png
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
 
 - taxonomy: 奇妙屋
   icon: fab fa-microsoft
