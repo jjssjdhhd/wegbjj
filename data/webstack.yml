@@ -35,9 +35,6 @@
     - title: koodo
       url: https://reader1.369001.xyz/
       logo: https://reader1.369001.xyz/favicon.png
-    - title: Zlibrary
-      url: https://zlib.pro/pro.php#google_vignette
-      logo: https://zlib.pro/favicon.ico
     - title: NS
       url: https://www.nodeseek.com/
       logo: https://www.nodeseek.com/static/image/favicon/apple-touch-icon.png
@@ -59,9 +56,6 @@
     - title: cloudflare
       url: https://dash.cloudflare.com/login
       logo: https://dash.cloudflare.com/apple-touch-icon-57x57.png 
-    - title: v.ps
-      url: https://vps.hosting/
-      logo: https://vps.hosting/favicon.ico
     - title: 微软云
       url: https://azure.microsoft.com/zh-cn/free/
       logo: https://azure.microsoft.com/apple-touch-icon-57x57-precomposed.png
@@ -88,9 +82,6 @@
     - title: kimichat
       url: https://kimi.moonshot.cn/
       logo: https://statics.moonshot.cn/kimi-chat/favicon.ico
-    - title: 伊利斯chat
-      url: https://ai.caifree.com/
-      logo: https://ai.caifree.com/favicon.png
     - title: chatk
       url: https://chat.gking.me/
       logo: https://chat.gking.me/icon.png
@@ -186,15 +177,9 @@
     - title: 樱花动漫
       url: https://www.iyhdmm.com/
       logo: https://www.iyhdmm.com/tpsf/yh_pic/favicon.ico
-    - title: 555影视
-      url: https://555ys.cc/
-      logo: https://555ys.cc/upload/mxprocms/20231224-1/663803c66ed20290e6fbda130e17d65a.png
-    - title: 大米星球
-      url: https://damit.site/label/netflix/page/85.html
-      logo: https://f746f90.ynajax.com/storage/images/2023-11-15/41/0e291f49fda6dd47fb1e8c158ca26bf3.webp
-    - title: 清风影视
-      url: https://mcoun.com/
-      logo: https://mcoun.com/static/ds3/img/logo1-3.png
+    - title: XJPTV
+      url: https://v.xjp.tw/
+      logo: https://imgsrc.baidu.com/forum/pic/item/a044ad345982b2b7d5b928fd77adcbef76099be0.jpg
     - title: 抖音
       url: https://www.douyin.com/
       logo: https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/pwa_v3/128_128.png
